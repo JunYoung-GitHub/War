@@ -1,1 +1,2 @@
-Daniel updated file2 to a new file
+Jon has a new update.
+Added a new implementation from Jon.Daniel updated file2 to a new file
